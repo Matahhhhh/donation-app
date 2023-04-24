@@ -1,4 +1,4 @@
-# Donation Application
+# Donation Application for CSC 2012 - Professional Software Development 2 
 
 Team Project Coded with React Native
 
